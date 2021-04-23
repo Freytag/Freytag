@@ -1,6 +1,6 @@
 ## Hello, I'm Michael Freytag! 👋
 
-I'm a front-end developer and UI/UX Designer. I currently work at [Nanonation](http://nanonation.net) where I create digital experiences for public spaces. 
+I'm a UX Engineer at [Comcast](https://corporate.comcast.com/)
 
 ### Other Places to Follow Me
 - [LinkedIn](https://www.linkedin.com/in/mtfreytag)
