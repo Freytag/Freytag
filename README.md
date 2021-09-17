@@ -1,6 +1,6 @@
 ## Hello, I'm Michael Freytag! 👋
 
-I'm a UX Engineer at [Comcast](https://corporate.comcast.com/)
+I'm a UX Engineer based in Portland, Or and work remotely for [Comcast](https://corporate.comcast.com/)
 
 ### Other Places to Follow Me
 - [LinkedIn](https://www.linkedin.com/in/mtfreytag)
